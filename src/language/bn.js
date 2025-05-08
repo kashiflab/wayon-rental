@@ -701,7 +701,7 @@ export const bengali = {
   "Become a store owner": "كن صاحب متجر",
   "Become A Seller": "كن بائعا",
   "Register as seller and open shop in Wayon to start your business":
-    "سجل كبائع وافتح متجرًا في 6ammart لبدء عملك",
+    "سجل كبائع وافتح متجرًا في Wayon لبدء عملك",
   "Lorem ipsum dolor sit amet, consectetur adipiscing elit.":
     "العميل مهم جدا ، العميل سيتبعه.",
   "Select location first to start exploring shops & restaurants near you":
