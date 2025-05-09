@@ -943,7 +943,7 @@ export const arabic = {
 	"some Customer & Restaurant Owners": "بعض أصحاب العملاء والمطاعم",
 	"Become A Seller": "كن بائعًا",
 	"Register as seller and open shop in Wayon to start your business":
-		"سجل كبائع ومتجر مفتوح في 6Ammart لبدء عملك",
+		"سجل كبائع ومتجر مفتوح في Wayon لبدء عملك",
 	"Become A Deliveryman": "تصبح رجل توصيل",
 	"to start your business": "لبدء عملك",
 	"Register as seller and open shop in": "سجل كبائع ومحل مفتوح في",
@@ -1089,7 +1089,7 @@ export const arabic = {
 	eBusiness: "Ebusiness",
 	Solution: "حل",
 	"Wayon is a Laravel and Flutter Framework-based multi-vendor food, grocery, eCommerce, parcel, and pharmacy delivery system. It has six modules to cover all your business functionality.":
-		"6Ammart عبارة عن نظام توصيل متعدد البائعين ، والبقالة ، والتجارة الإلكترونية ، والتجارة الإلكترونية ، والتجارة الإلكترونية ، والطرز ، ونظام توصيل الصيدلة ، 6Ammart عبارة عن نظام توصيل الصيدلة ، وتجارة الإلكترون ، والتجارة الإلكترونية ، والطرد ، ونظام توصيل الصيدلة. لديها ست وحدات لتغطية جميع وظائف عملك.",
+		"Wayon عبارة عن نظام توصيل متعدد البائعين ، والبقالة ، والتجارة الإلكترونية ، والتجارة الإلكترونية ، والتجارة الإلكترونية ، والطرز ، ونظام توصيل الصيدلة ، Wayon عبارة عن نظام توصيل الصيدلة ، وتجارة الإلكترون ، والتجارة الإلكترونية ، والطرد ، ونظام توصيل الصيدلة. لديها ست وحدات لتغطية جميع وظائف عملك.",
 	"Featured Store": "متجر مميز",
 	"Close fullscreen": "إغلاق ملء الشاشة",
 	Fullscreen: "تكبير الشاشة",
@@ -1199,7 +1199,7 @@ export const arabic = {
 	"You made your earning when the order is complete":
 		"لقد قمت بكسبك عند اكتمال الطلب",
 	"They create a account on Wayon using your code and place their first order":
-		"يقومون بإنشاء حساب على 6Ammart باستخدام الكود الخاص بك ويضعون طلبهم الأول",
+		"يقومون بإنشاء حساب على Wayon باستخدام الكود الخاص بك ويضعون طلبهم الأول",
 	"They create a account on": "يقومون بإنشاء حساب على",
 	"using your code and place their first order":
 		"باستخدام الكود الخاص بك ووضع طلبهم الأول",
