@@ -60,6 +60,7 @@ const RouteLinks = (props) => {
             key={index}
             onClick={() => handleClick(item.link, item.value)}
             sx={{
+              color: "#3432c7 !important",
               cursor: "pointer",
               "&:hover": {
                 color: theme.palette.primary.main,
@@ -74,6 +75,7 @@ const RouteLinks = (props) => {
       <Typography
         onClick={() => handleClickToRoute("/about-us")}
         sx={{
+          color: "#3432c7 !important",
           cursor: "pointer",
           "&:hover": {
             color: theme.palette.primary.main,
@@ -85,6 +87,7 @@ const RouteLinks = (props) => {
       <Typography
         onClick={() => handleClickToRoute("/track-order")}
         sx={{
+          color: "#3432c7 !important",
           cursor: "pointer",
           "&:hover": {
             color: theme.palette.primary.main,

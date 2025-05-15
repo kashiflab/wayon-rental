@@ -133,6 +133,7 @@ const FooterMiddle = (props) => {
                   sm={6}
                   md={3}
                   sx={{
+                    color: "#3432c7 !important",
                     display: { xs: "flex", sm: "none", md: "flex" },
                     alignItems: "flex-start",
                     justifyContent: "center",
@@ -153,6 +154,7 @@ const FooterMiddle = (props) => {
                   sm={6}
                   md={3}
                   sx={{
+                    color: "#3432c7 !important",
                     display: { xs: "flex", sm: "none", md: "flex" },
                     alignItems: "flex-start",
                     justifyContent: "center",
@@ -173,6 +175,7 @@ const FooterMiddle = (props) => {
                   sm={6}
                   md={3}
                   sx={{
+                    color: "#3432c7 !important",
                     display: { xs: "flex", sm: "none", md: "flex" },
                     alignItems: "flex-start",
                     justifyContent: "center",

@@ -139,7 +139,7 @@ const Testimonials = ({ isSmall, landingPageData }) => {
 							variant={isSmall ? "h7" : "h4"}
 							fontSize={{ xs: "17px", sm: "24px", md: "30px" }}
 							fontWeight={500}
-							sx={{ opacity: ".9" }}
+							sx={{ opacity: ".9" ,color: "#3432c7 !important",}}
 							component="h2"
 						>
 							<DollarSignHighlighter
@@ -159,7 +159,7 @@ const Testimonials = ({ isSmall, landingPageData }) => {
 							sx={{ display: "block", position: "relative" }}
 							className={"testimonials-slider"}
 						>
-							<Box sx={{ gap: "35px" }}>
+							<Box sx={{ gap: "35px", color: "#3432c7 !important", }}>
 								<Box className="slider-wrapper">
 									<Slider
 										asNavFor={nav2}

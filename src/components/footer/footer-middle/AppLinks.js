@@ -47,7 +47,8 @@ const AppLinks = (props) => {
         goToApp(landingPageData?.download_user_app_links?.playstore_url)
       }
       variant="contained"
-      graybackground={graybackground ? "true" : "false"}
+      backgroundColor="#3432c7"
+      // graybackground={graybackground ? "true" : "false"}
     >
       <Stack
         direction="row"
@@ -90,7 +91,8 @@ const AppLinks = (props) => {
         goToApp(landingPageData?.download_user_app_links?.apple_store_url)
       }
       variant="contained"
-      graybackground={graybackground ? "true" : "false"}
+      backgroundColor="#3432c7"
+      // graybackground={graybackground ? "true" : "false"}
     >
       <Stack
         direction="row"

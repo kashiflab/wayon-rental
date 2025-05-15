@@ -344,19 +344,33 @@ const primary = {
   icon: "#E2E4FF",                  // A light bluish color for icons to stand out
 };
 
+// const secondary = {
+//   main: "#10B981",
+//   light: "#3FC79A",
+//   dark: "#0B815A",
+//   contrastText: neutral[900],
+// };
+
 const secondary = {
-  main: "#10B981",
-  light: "#3FC79A",
-  dark: "#0B815A",
+  main: "#5D5FEF",         // A vibrant indigo-blue
+  light: "#8788F6",        // Softer, lighter version
+  dark: "#2B29A3",         // Deeper tone for hover/pressed states
   contrastText: neutral[900],
 };
 
 const success = {
-  main: "#14B8A6",
-  light: "#43C6B7",
-  dark: "#0E8074",
+  main: "#3AC8A6",         // Cool green-teal
+  light: "#6DDDC3",        // Light, fresh minty green
+  dark: "#289F84",         // Darker version for hover/pressed
   contrastText: neutral[900],
 };
+
+// const success = {
+//   main: "#14B8A6",
+//   light: "#43C6B7",
+//   dark: "#0E8074",
+//   contrastText: neutral[900],
+// };
 
 const info = {
   main: "#2196F3",

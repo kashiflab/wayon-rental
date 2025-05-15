@@ -12,6 +12,7 @@ const DownloadApps = ({ theme, isSmall, landingPageData }) => {
       paddingBottom={{ xs: "20px", md: "0px" }}
     >
       <Typography
+        sx={{color: "#4A47A1 !important"}}
         textAlign="flex-start"
         fontSize={isSmall ? "14px" : "26px"}
         fontWeight={600}

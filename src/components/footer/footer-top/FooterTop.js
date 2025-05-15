@@ -70,6 +70,7 @@ const FooterTop = (props) => {
 									pt={0}
 								>
 									<Typography
+										sx={{color: "#3432c7 !important"}}
 										fontWeight={700}
 										fontSize={{ xs: "1rem", md: "2.25rem" }}
 										component="h2"
